@@ -1,0 +1,27 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "environmentName": {
+      "value": "cheongdo-digital-guide-dev-02b9"
+    },
+    "location": {
+      "value": "eastasia"
+    },
+    "sessionId": {
+      "value": "02b95b81-14df-4b3b-a753-74871bad76d0"
+    },
+    "deployedBy": {
+      "value": "dmsgml10p@gmail.com"
+    },
+    "resourceGroupName": {
+      "value": "rg-cheongdo-guide-demo"
+    },
+    "staticWebAppName": {
+      "value": "swa-cheongdo-digital-guide-dev-02b9"
+    },
+    "createdAt": {
+      "value": "2026-11-05T06:25:38Z"
+    }
+  }
+}
